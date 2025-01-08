@@ -1,2 +1,2 @@
 # POO
-Orientado en objetos
+Programacion Orientado en objetos
