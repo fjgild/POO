@@ -1,2 +1,2 @@
-# op
+# POO
 Orientado en objetos
